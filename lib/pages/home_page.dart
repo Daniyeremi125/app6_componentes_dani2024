@@ -1,5 +1,6 @@
 import 'package:app6_componentes_dani2024/pages/alert_page.dart';
 import 'package:app6_componentes_dani2024/pages/avatar_page.dart';
+import 'package:app6_componentes_dani2024/pages/card_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
